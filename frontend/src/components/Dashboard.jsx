@@ -14,7 +14,7 @@ import StateComparator from './StateComparator'
 import NewsFeed from './NewsFeed'
 import AIChatBot from './AIChatBot'
 
-const API_URL = 'http://localhost:5000'
+const API_URL = 'https://india-crime-analytics.onrender.com'
 
 const NAV_SECTIONS = [
   { id:'overview',     label:'OVERVIEW',     icon:'◈' },
