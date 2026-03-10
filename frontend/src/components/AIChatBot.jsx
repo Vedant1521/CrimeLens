@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react'
 import axios from 'axios'
 
-const API_URL = 'http://localhost:5000'
+const API_URL = import.meta.env.VITE_API_URL || 'https://india-crime-analytics.onrender.com'
 
 const SUGGESTIONS = [
   'Which state has highest crime rate?',
