@@ -162,11 +162,7 @@ export default function Dashboard() {
                 <p style={{ color:'var(--accent)', fontFamily:'var(--font-display)', fontSize:20, letterSpacing:1, lineHeight:1 }}>{Number(dash.totalCrimes).toLocaleString()}</p>
               </div>
             )}
-            <div style={{ width:1, height:30, background:'var(--border)' }} />
-            <div style={{ display:'flex', alignItems:'center', gap:7 }}>
-              <span className="nav-blink" style={{ width:7, height:7, borderRadius:'50%', background:'var(--green)', boxShadow:'0 0 8px var(--green)', display:'inline-block' }} />
-              <span style={{ color:'var(--text-muted)', fontSize:10, fontFamily:'var(--font-mono)', letterSpacing:1 }}>LIVE</span>
-            </div>
+            
           </div>
         </div>
 
