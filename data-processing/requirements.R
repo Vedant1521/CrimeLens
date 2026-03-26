@@ -1,0 +1,10 @@
+install.packages(c(
+  "ggplot2",
+  "dplyr",
+  "tidyr",
+  "readr",
+  "corrplot",
+  "RColorBrewer",
+  "scales",
+  "viridis"
+))
