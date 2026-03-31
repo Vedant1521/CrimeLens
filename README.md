@@ -2,7 +2,7 @@
 
 A crime intelligence platform built on NCRB data — turning government statistics into clear, interactive insights across all Indian states from 2018 to 2025.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://india-crime-analytics-pr7xl7msh-ayushcmds-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel_(Frontend)%20%2B%20Render_(Backend)-000000?style=flat-square&logo=vercel&logoColor=white)](https://india-crime-analytics-pr7xl7msh-ayushcmds-projects.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-ayushcmd-181717?style=flat-square&logo=github)](https://github.com/ayushcmd/india-crime-analytics)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -11,6 +11,8 @@ A crime intelligence platform built on NCRB data — turning government statisti
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+> Backend is currently deployed on **Render** (may cold-start on first request). Planned migration to **Railway/Fly.io** for always-on performance.
 
 ---
 
@@ -61,7 +63,7 @@ Most crime dashboards stop at counts. This one overlays literacy rate data with 
 | Database | MongoDB Atlas |
 | AI | GROQ API |
 | Data Pipeline | Python |
-| Deploy | Vercel (frontend) + Render (backend) |
+| Deploy | Vercel (frontend) + Render (backend, temporary) |
 
 ---
 
