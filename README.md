@@ -2,7 +2,7 @@
 
 A crime intelligence platform built on NCRB data — turning government statistics into clear, interactive insights across all Indian states from 2018 to 2025.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel_(Frontend)%20%2B%20Render_(Backend)-000000?style=flat-square&logo=vercel&logoColor=white)](https://india-crime-analytics-pr7xl7msh-ayushcmds-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel_(Frontend)%20%2B%20Render_(Backend)-000000?style=flat-square&logo=vercel&logoColor=white)](https://india-crime-analytics.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-ayushcmd-181717?style=flat-square&logo=github)](https://github.com/ayushcmd/india-crime-analytics)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
