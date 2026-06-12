@@ -3,7 +3,7 @@
 A crime intelligence platform built on NCRB data — turning government statistics into clear, interactive insights across all Indian states from 2018 to 2025.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel_(Frontend)%20%2B%20Render_(Backend)-000000?style=flat-square&logo=vercel&logoColor=white)](https://india-crime-analytics.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-ayushcmd-181717?style=flat-square&logo=github)](https://github.com/ayushcmd/india-crime-analytics)
+[![GitHub](https://img.shields.io/badge/GitHub-Vedant1521-181717?style=flat-square&logo=github)](https://github.com/Vedant1521/india-crime-analytics)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -94,4 +94,5 @@ All data sourced from the **National Crime Records Bureau (NCRB)**, Ministry of 
 
 ---
 
-Built by [Ayush](https://github.com/ayushcmd)
+Built by [Vedant](https://github.com/Vedant1521)
+
